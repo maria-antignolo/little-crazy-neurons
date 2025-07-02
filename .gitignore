@@ -58,5 +58,3 @@ target/
 *.pem
 *.key
 *.crt
-.DS_Store
-.DS_Store
