@@ -1,0 +1,60 @@
+# macOS files
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE and editor files
+.idea/
+*. സ്വ 
+*.swp
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts and dependencies
+node_modules/
+dist/
+build/
+venv/
+.env
+.cache/
+.parcel-cache/
+target/
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Logs
+*.log
+*.tgz
+*.zip
+
+# Other common ignores
+.env.*
+*.pem
+*.key
+*.crt
