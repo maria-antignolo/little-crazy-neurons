@@ -1,2 +1,0 @@
-import "./CompanionContent";
-import "./CompanionTabs";
