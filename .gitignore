@@ -37,8 +37,7 @@ Temporary Items
 
 # Build artifacts and dependencies
 node_modules/
-dist/
-build/
+dist/xs
 venv/
 .env
 .cache/
